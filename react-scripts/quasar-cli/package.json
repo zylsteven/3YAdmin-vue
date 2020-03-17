@@ -84,7 +84,7 @@
     "json-loader": "0.5.7",
     "lodash.debounce": "4.0.8",
     "lodash.template": "4.4.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.5",
     "ms": "2.1.1",
     "net": "1.0.2",
     "node-loader": "0.6.0",
